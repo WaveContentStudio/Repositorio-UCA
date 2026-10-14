@@ -1,0 +1,12 @@
+REPOSITORIO UCA - versión app (PWA)
+
+Qué hay acá:
+  index.html            la app
+  manifest.webmanifest  datos de la app (nombre, íconos, colores)
+  sw.js                 hace que funcione sin internet
+  icons/                íconos de la app
+
+IMPORTANTE: subí TODOS estos archivos, incluida la carpeta icons.
+Si algún día cambiás index.html, abrí sw.js y cambiá "repo-uca-v1" por "repo-uca-v2" para que las instalaciones se actualicen.
+
+Esta versión guarda los datos en el propio celular (los votos, subidas y guardados son de ese dispositivo).
